@@ -1,0 +1,95 @@
+
+body{
+   color: white;
+   background-color: #364553;
+   font-size: xx-large;
+   font-family: 'Playfair Display', serif;
+   background-image: url("../images/back.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: scroll;
+  
+}
+
+.form{
+   border: #364553 3vw solid;
+   padding: 7vw 5vw 5vw;
+   margin: 0vw 15vw 6vw 15vw;
+   border-radius: 5%;
+}
+.up{
+   color: #e0e3e6;
+   background-color: #364553;
+   width: 65vw;
+    text-align: center;
+    padding-bottom: 3vw;
+    padding-top: 1vw;
+    margin: -8vw 5vw 0vw -7vw;
+    border-radius: 20%;
+    font-size: 900;
+}
+
+.fn{
+   padding-top: 3.5vw;
+   padding-bottom: 2.5vw;
+}
+.ln{
+   padding-top: 1.5vw;
+   padding-bottom: 2.5vw;
+}
+.email{
+   padding-top: 1.5vw;
+   padding-bottom: 2.5vw;
+}
+.password{
+   padding-top: 1.5vw;
+   padding-bottom: 2.5vw;
+}
+.Gender{
+   padding-top: 1.5vw;
+   padding-bottom: 2.5vw;
+}
+.city{
+   padding-top: 1.5vw;
+   padding-bottom: 2.5vw;
+}
+.sign{
+   padding-top: 2.5vw;
+   padding-bottom: 1.5vw;
+   text-align: center;
+}
+.f,.l,.e,.p{
+   background-color: #364553;
+   color: #fffffffc;
+   font-size: xx-large;
+   border-radius: 30%;
+   width: 50vw;
+   height: 5vw;
+}
+.g{
+   width: 1vw;
+}
+
+.s{
+   background-color: #364553;
+   color: #fdfdfd;
+   font-size: x-large;
+   border-radius: 70%;
+   width: 20vw;
+   height: 5vw;
+   font-size: xx-large;
+}
+.c{
+   background-color: #364553;
+   color: #ffffff;
+   font-size: x-large;
+   border-radius: 70%;
+   width: 15vw;
+   height: 5vw;
+   text-align: center;
+}
+img{
+   width: 20vw;
+   border-radius: 50%;
+}

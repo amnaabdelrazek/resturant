@@ -1,0 +1,63 @@
+body{
+    width: 100%;
+    color: white;
+    background-color: #364553;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+    background-image: url("../images/back.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+   
+ }
+ img{
+    width: 20vw;
+    border-radius: 50%;
+}
+.all{
+    border: #364553 3vw solid;
+    padding: 7vw 5vw 5vw;
+    margin: 5vw 15vw 6vw 15vw;
+    border-radius: 20%;
+}
+.log,.create{
+    text-align: center;
+}
+.in{
+    width: 20vw;
+    height: 7vw;
+    font-size: xx-large;
+    border-radius: 50%;
+    background-color: #364553;
+    color: white;
+    font-family: 'Playfair Display', serif;
+
+}
+.new{
+    width: 31vw;
+    height: 8vw;
+    font-size: x-large;
+    border-radius: 50%;
+    background-color: #364553;
+    color: white;
+    font-family: 'Playfair Display', serif;
+
+}
+hr{
+    background-color: #364553;
+    width: 40vw;
+}
+.input{
+    width: 50vw;
+    height: 5vw;
+    padding-left: 3vw;
+    font-size: xx-large;
+    border-radius: 35%;
+    background-color: #364553;
+    color: white;
+    
+}
+.email,.pass{
+    font-size: xx-large;
+}
